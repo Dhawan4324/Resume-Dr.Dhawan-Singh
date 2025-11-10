@@ -121,19 +121,23 @@
       </div>
     </div>
 
-    <!-- QR Code (scannable + clickable for Word résumé) -->
-<!-- QR Code (Working & Clickable for Resume) -->
-<!-- QR: local generator + clean filename (recommended) -->
+    <!-- QR Code (Working & Clickable for Resume) -->
 <div style="text-align:center">
-  <div id="qr" style="display:inline-block; padding:8px; background:#fff; border:1px solid #e2e8f0; border-radius:10px; box-shadow:0 4px 16px rgba(2,6,23,.10)"></div>
+  <div id="qr"
+       style="display:inline-block; padding:8px; background:#fff; border:1px solid #e2e8f0; border-radius:10px; box-shadow:0 4px 16px rgba(2,6,23,.10)">
+  </div>
+
   <div style="margin-top:8px">
-    <a id="resumeLinkA" href="https://dhawan4324.github.io/dr-dhawan-singh-resume/Dhawan_Singh_Full_Resume.docx"
-       target="_blank" rel="noopener" style="text-decoration:underline; font-size:12px; color:#64748b">
+    <a id="resumeLinkA"
+       href="https://dhawan4324.github.io/Resume-Dr.Dhawan-Singh/Dhawan_Singh_Full_Resume.docx"
+       target="_blank" rel="noopener"
+       style="text-decoration:underline; font-size:12px; color:#64748b">
        Download full résumé (.docx)
     </a>
   </div>
+<!-- QRCode generator link -->
   <div style="margin-top:8px">
-    <a href="https://dhawan4324.github.io/dr-dhawan-singh-resume/Dhawan_Singh_Full_Resume.docx"
+    <a href="https://dhawan4324.github.io/Resume-Dr.Dhawan-Singh/Dhawan_Singh_Full_Resume.docx"
        target="_blank" rel="noopener"
        style="display:inline-block;background:#2563eb;color:#fff;padding:8px 12px;border-radius:8px;text-decoration:none;font-size:14px">
        Open Résumé
@@ -141,23 +145,21 @@
   </div>
 </div>
 
-<!-- QRCode generator (from CDN) -->
+<!-- QRCode generator -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js" defer></script>
 <script>
   document.addEventListener('DOMContentLoaded', function () {
-    const url = "https://dhawan4324.github.io/dr-dhawan-singh-resume/Dhawan_Singh_Full_Resume.docx";
-    // build QR
+    const url = "https://dhawan4324.github.io/Resume-Dr.Dhawan-Singh/Dhawan_Singh_Full_Resume.docx";
     new QRCode(document.getElementById("qr"), {
       text: url,
       width: 132,
       height: 132,
       correctLevel: QRCode.CorrectLevel.H
     });
-    // ensure link matches
     document.getElementById("resumeLinkA").href = url;
   });
 </script>
- 
+
   </header>
 
   <div class="grid">
