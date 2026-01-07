@@ -1,0 +1,407 @@
+{
+  "orcid": "0000-0003-4868-5806",
+  "generated_utc": "2026-01-07T05:31:59.222452+00:00",
+  "count": 50,
+  "publications": [
+    {
+      "title": "Revolutionizing Software Deployment Through Microservices Containers",
+      "year": 2025,
+      "type": "conference-paper",
+      "doi": "10.1109/GINOTECH63460.2025.11076748",
+      "url": "https://doi.org/10.1109/GINOTECH63460.2025.11076748",
+      "orcid_put_code": 200454001
+    },
+    {
+      "title": "Leveraging Blockchain Technology for Enhanced Data Protection and Integrity in Cloud Security",
+      "year": 2025,
+      "type": "conference-paper",
+      "doi": "10.23919/INDIACom66777.2025.11115419",
+      "url": "https://doi.org/10.23919/INDIACom66777.2025.11115419",
+      "orcid_put_code": 200454014
+    },
+    {
+      "title": "Leveraging Blockchain for Cloud Log Security and Compliance in AWS",
+      "year": 2025,
+      "type": "conference-paper",
+      "doi": "10.1109/SCEECS64059.2025.10941068",
+      "url": "https://doi.org/10.1109/SCEECS64059.2025.10941068",
+      "orcid_put_code": 200454021
+    },
+    {
+      "title": "Enhancing power conversion efficiency of lead-free perovskite solar cells: a numerical simulation approach",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": "10.1007/s12648-024-03365-3",
+      "url": "https://doi.org/10.1007/s12648-024-03365-3",
+      "orcid_put_code": 200454007
+    },
+    {
+      "title": "Design and optimization of a hexagonal-slotted wideband microstrip antenna for 5 G networks RF energy harvesting",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": "10.1016/j.fraope.2025.100409",
+      "url": "https://doi.org/10.1016/j.fraope.2025.100409",
+      "orcid_put_code": 200454015
+    },
+    {
+      "title": "An Efficient Retargeting Technique to Mitigate Deformations by Integrating Seam Carving and Image Stitching",
+      "year": 2025,
+      "type": "conference-paper",
+      "doi": "10.1109/MRIE66930.2025.11156341",
+      "url": "https://doi.org/10.1109/MRIE66930.2025.11156341",
+      "orcid_put_code": 200454003
+    },
+    {
+      "title": "A Structured Framework for Selecting Cloud or Fog Computing in Application-Specific Contexts",
+      "year": 2025,
+      "type": "conference-paper",
+      "doi": "10.1109/ICSSAS66150.2025.11081303",
+      "url": "https://doi.org/10.1109/ICSSAS66150.2025.11081303",
+      "orcid_put_code": 200453991
+    },
+    {
+      "title": "A Cardiovascular Disease Early Detection System in Cloud-A Project Based Approach",
+      "year": 2025,
+      "type": "conference-paper",
+      "doi": "10.1109/MRIE66930.2025.11156700",
+      "url": "https://doi.org/10.1109/MRIE66930.2025.11156700",
+      "orcid_put_code": 200454013
+    },
+    {
+      "title": "Study Containerization Technologies like Docker and Kubernetes and their Role in Modern Cloud Deployments",
+      "year": 2024,
+      "type": "conference-paper",
+      "doi": "10.1109/I2CT61223.2024.10543986",
+      "url": "https://doi.org/10.1109/I2CT61223.2024.10543986",
+      "orcid_put_code": 200453990
+    },
+    {
+      "title": "India's Cooling Demand: Sustainability Meets Consumer Trends",
+      "year": 2024,
+      "type": "conference-paper",
+      "doi": "10.1109/ICETEMS64039.2024.10964967",
+      "url": "https://doi.org/10.1109/ICETEMS64039.2024.10964967",
+      "orcid_put_code": 200454016
+    },
+    {
+      "title": "Enhancing Cloud Security through a Blend of Symmetric and Asymmetric Cryptography Methods",
+      "year": 2024,
+      "type": "conference-paper",
+      "doi": "10.1109/ICCCNT61001.2024.10725502",
+      "url": "https://doi.org/10.1109/ICCCNT61001.2024.10725502",
+      "orcid_put_code": 200454000
+    },
+    {
+      "title": "Comparative analysis and optimization of lead/lead-free perovskite solar cell",
+      "year": 2024,
+      "type": "journal-article",
+      "doi": "10.1007/s12648-023-02939-x",
+      "url": "https://doi.org/10.1007/s12648-023-02939-x",
+      "orcid_put_code": 200454004
+    },
+    {
+      "title": "Cloud-Internet of Things in Smart Healthcare Systems",
+      "year": 2024,
+      "type": "book-chapter",
+      "doi": "10.1201/9781032656694-6",
+      "url": "https://doi.org/10.1201/9781032656694-6",
+      "orcid_put_code": 200453985
+    },
+    {
+      "title": "CAPTCHA in Web Security and Deep-Captcha Configuration based on Machine learning",
+      "year": 2024,
+      "type": "conference-paper",
+      "doi": "10.1109/INOCON60754.2024.10511373",
+      "url": "https://doi.org/10.1109/INOCON60754.2024.10511373",
+      "orcid_put_code": 200454008
+    },
+    {
+      "title": "Scenario of Electric Vehicles in India",
+      "year": 2023,
+      "type": "conference-paper",
+      "doi": "10.1109/RESEM57584.2023.10236007",
+      "url": "https://doi.org/10.1109/RESEM57584.2023.10236007",
+      "orcid_put_code": 200454010
+    },
+    {
+      "title": "Role of Building Automation Technology in Creating a Smart and Sustainable Built Environment",
+      "year": 2023,
+      "type": "journal-article",
+      "doi": "10.5109/6781101",
+      "url": "https://doi.org/10.5109/6781101",
+      "orcid_put_code": 200454009
+    },
+    {
+      "title": "Future of Hydrogen Cell in Electric Vehicles",
+      "year": 2023,
+      "type": "conference-paper",
+      "doi": "10.1109/RESEM57584.2023.10236089",
+      "url": "https://doi.org/10.1109/RESEM57584.2023.10236089",
+      "orcid_put_code": 200454006
+    },
+    {
+      "title": "Design Modelling and Performance Analysis of Impressive Tin Based Perovskite Solar Cell",
+      "year": 2023,
+      "type": "conference-paper",
+      "doi": "10.1109/RESEM57584.2023.10236140",
+      "url": "https://doi.org/10.1109/RESEM57584.2023.10236140",
+      "orcid_put_code": 200453999
+    },
+    {
+      "title": "Assessing the Power System Distribution Network's Performance and Future Prospects",
+      "year": 2023,
+      "type": "conference-paper",
+      "doi": "10.1109/ICSCNA58489.2023.10370673",
+      "url": "https://doi.org/10.1109/ICSCNA58489.2023.10370673",
+      "orcid_put_code": 200454002
+    },
+    {
+      "title": "An Investigation of the Security and Privacy Implications of fog Computing Systems using IFogSim",
+      "year": 2023,
+      "type": "conference-paper",
+      "doi": "10.1109/ASIANCON58793.2023.10270745",
+      "url": "https://doi.org/10.1109/ASIANCON58793.2023.10270745",
+      "orcid_put_code": 200453995
+    },
+    {
+      "title": "A Systematic Review on Solar Cells",
+      "year": 2023,
+      "type": "book-chapter",
+      "doi": "10.1201/9781003367161-8",
+      "url": "https://doi.org/10.1201/9781003367161-8",
+      "orcid_put_code": 200453987
+    },
+    {
+      "title": "A Novel Circularly Polarized Annular Slotted Multiband Rectenna for Low Power Sensor Applications",
+      "year": 2023,
+      "type": "journal-article",
+      "doi": "10.2528/PIERB22122606",
+      "url": "https://doi.org/10.2528/PIERB22122606",
+      "orcid_put_code": 200454005
+    },
+    {
+      "title": "A Compact Multiband Annular-Slotted Patch Rectenna for Efficient Energy Harvesting",
+      "year": 2023,
+      "type": "journal-article",
+      "doi": "",
+      "url": "",
+      "orcid_put_code": 200453986
+    },
+    {
+      "title": "Solar Cogeneration in India: Current Situation and Future Prospects",
+      "year": 2022,
+      "type": "conference-paper",
+      "doi": "10.1109/ICICICT54557.2022.9918001",
+      "url": "https://doi.org/10.1109/ICICICT54557.2022.9918001",
+      "orcid_put_code": 200453996
+    },
+    {
+      "title": "Numerical simulations of 26.11% efficient planar CH3NH3PbI3 perovskite n-i-p solar cell",
+      "year": 2022,
+      "type": "conference-paper",
+      "doi": "10.1016/j.matpr.2022.08.423",
+      "url": "https://doi.org/10.1016/j.matpr.2022.08.423",
+      "orcid_put_code": 200454022
+    },
+    {
+      "title": "Multiband Slotted Circular Microstrip Patch Antenna with Enhanced Bandwidth for Satellite Applications",
+      "year": 2022,
+      "type": "conference-paper",
+      "doi": "10.1109/MECON53876.2022.9752180",
+      "url": "https://doi.org/10.1109/MECON53876.2022.9752180",
+      "orcid_put_code": 200454018
+    },
+    {
+      "title": "Harmonic Mitigation In VFD Controlled Chiller Compressor Using AC Line Reactor And DC Link Choke Combination",
+      "year": 2022,
+      "type": "conference-paper",
+      "doi": "10.1149/10701.9559ecst",
+      "url": "https://doi.org/10.1149/10701.9559ecst",
+      "orcid_put_code": 200453997
+    },
+    {
+      "title": "Fusion based fast de-fogging for foggy images",
+      "year": 2022,
+      "type": "conference-paper",
+      "doi": "10.1063/5.0080780",
+      "url": "https://doi.org/10.1063/5.0080780",
+      "orcid_put_code": 200453994
+    },
+    {
+      "title": "Design Considerations for Compact Dual-Band Slotted Patch Antenna with Defected Ground Plane",
+      "year": 2022,
+      "type": "journal-article",
+      "doi": "",
+      "url": "",
+      "orcid_put_code": 200453988
+    },
+    {
+      "title": "Comprehensive Study of Microstrip Patch Antenna using different Feeding Techniques",
+      "year": 2022,
+      "type": "conference-paper",
+      "doi": "10.1149/10701.9545ecst",
+      "url": "https://doi.org/10.1149/10701.9545ecst",
+      "orcid_put_code": 200454020
+    },
+    {
+      "title": "Comparative Performance Analysis and Modelling of Tin based Planar Perovskite Solar Cell",
+      "year": 2022,
+      "type": "conference-paper",
+      "doi": "10.1109/ICICCSP53532.2022.9862399",
+      "url": "https://doi.org/10.1109/ICICCSP53532.2022.9862399",
+      "orcid_put_code": 200454019
+    },
+    {
+      "title": "Challenges for Electronic Access Control Systems amid pandemic: A Survey",
+      "year": 2022,
+      "type": "conference-paper",
+      "doi": "10.1109/AIC55036.2022.9848961",
+      "url": "https://doi.org/10.1109/AIC55036.2022.9848961",
+      "orcid_put_code": 200454011
+    },
+    {
+      "title": "A Review on Smart Energy Meters and Their Market Trends",
+      "year": 2022,
+      "type": "conference-paper",
+      "doi": "10.1109/ICETEMS56252.2022.10093455",
+      "url": "https://doi.org/10.1109/ICETEMS56252.2022.10093455",
+      "orcid_put_code": 200453992
+    },
+    {
+      "title": "A Comprehensive Review on Access Control Systems amid Global Pandemic",
+      "year": 2022,
+      "type": "conference-paper",
+      "doi": "10.1109/ICETEMS56252.2022.10093551",
+      "url": "https://doi.org/10.1109/ICETEMS56252.2022.10093551",
+      "orcid_put_code": 200453989
+    },
+    {
+      "title": "A Comparative Survey on Domestic Water Heating Mechanisms and their Market Scenario in INDIA",
+      "year": 2022,
+      "type": "conference-paper",
+      "doi": "10.1109/R10-HTC54060.2022.9929821",
+      "url": "https://doi.org/10.1109/R10-HTC54060.2022.9929821",
+      "orcid_put_code": 200453998
+    },
+    {
+      "title": "IoT implementation strategies amid COVID-19 pandemic",
+      "year": 2021,
+      "type": "journal-article",
+      "doi": "10.1504/IJCAT.2021.117303",
+      "url": "https://doi.org/10.1504/IJCAT.2021.117303",
+      "orcid_put_code": 106938765
+    },
+    {
+      "title": "Design and Analyses of Dual-band Microstrip Patch Antennas for Wireless Communications",
+      "year": 2021,
+      "type": "book-chapter",
+      "doi": "10.1201/9781003093558",
+      "url": "https://doi.org/10.1201/9781003093558",
+      "orcid_put_code": 106942580
+    },
+    {
+      "title": "A Compact and Wideband Filtenna Using Elliptical Patch and CSRR Structure for Wireless Application",
+      "year": 2021,
+      "type": "conference-paper",
+      "doi": "10.1109/csnt51715.2021.9509701",
+      "url": "https://doi.org/10.1109/csnt51715.2021.9509701",
+      "orcid_put_code": 106942538
+    },
+    {
+      "title": "Electrical conductivity and dielectric properties of solid polymer nanocomposite films: Effect of BaTiO3 nanofiller",
+      "year": 2019,
+      "type": "conference-paper",
+      "doi": "10.1016/j.matpr.2020.02.623",
+      "url": "https://doi.org/10.1016/j.matpr.2020.02.623",
+      "orcid_put_code": 200453993
+    },
+    {
+      "title": "Design Implementation of Concentric Loops with Stubs Metamaterial Absorber",
+      "year": 2019,
+      "type": "journal-article",
+      "doi": "10.1007/s11277-018-6012-y",
+      "url": "https://doi.org/10.1007/s11277-018-6012-y",
+      "orcid_put_code": 106938766
+    },
+    {
+      "title": "RCS reduction of patch array using shorted stubs metamaterial absorber",
+      "year": 2018,
+      "type": "journal-article",
+      "doi": "10.12720/jcm.13.12.702-711",
+      "url": "https://doi.org/10.12720/jcm.13.12.702-711",
+      "orcid_put_code": 106938762
+    },
+    {
+      "title": "Miniaturization and gain enhancement of microstrip patch antenna using defected ground with EBG",
+      "year": 2018,
+      "type": "journal-article",
+      "doi": "10.12720/jcm.13.12.730-736",
+      "url": "https://doi.org/10.12720/jcm.13.12.730-736",
+      "orcid_put_code": 106938763
+    },
+    {
+      "title": "Low radar cross section of patch antenna using shorted stubs metamaterial absorber",
+      "year": 2018,
+      "type": "journal-article",
+      "doi": "",
+      "url": "",
+      "orcid_put_code": 106938760
+    },
+    {
+      "title": "Dual resonance shorted stub circular rings metamaterial absorber",
+      "year": 2018,
+      "type": "journal-article",
+      "doi": "10.1016/j.aeue.2017.08.034",
+      "url": "https://doi.org/10.1016/j.aeue.2017.08.034",
+      "orcid_put_code": 43756454
+    },
+    {
+      "title": "Designing of smart drip irrigation system for remote hilly areas",
+      "year": 2018,
+      "type": "conference-paper",
+      "doi": "10.1109/PDGC.2018.8745934",
+      "url": "https://doi.org/10.1109/PDGC.2018.8745934",
+      "orcid_put_code": 106938767
+    },
+    {
+      "title": "Comparative analyses for rcs of 10 ghz patch antenna using shorted stubs metamaterial absorber",
+      "year": 2018,
+      "type": "journal-article",
+      "doi": "",
+      "url": "",
+      "orcid_put_code": 106938761
+    },
+    {
+      "title": "An analysis of RCS for dual-band slotted patch antenna with a thin dielectric using shorted stubs metamaterial absorber",
+      "year": 2018,
+      "type": "journal-article",
+      "doi": "10.1016/j.aeue.2018.03.039",
+      "url": "https://doi.org/10.1016/j.aeue.2018.03.039",
+      "orcid_put_code": 43756455
+    },
+    {
+      "title": "Triple band regular decagon shaped metamaterial absorber for X-band applications",
+      "year": 2017,
+      "type": "conference-paper",
+      "doi": "10.1109/ICCCI.2017.8117766",
+      "url": "https://doi.org/10.1109/ICCCI.2017.8117766",
+      "orcid_put_code": 43756456
+    },
+    {
+      "title": "Polarization-Insensitive Cylindrical Shaped Frequency Selective Surface",
+      "year": 2017,
+      "type": "conference-paper",
+      "doi": "DOI: 10.1109/DeSE.2017.18",
+      "url": "https://doi.org/DOI: 10.1109/DeSE.2017.18",
+      "orcid_put_code": 43800248
+    },
+    {
+      "title": "3-D cylindrical shaped frequency selective surface",
+      "year": 2017,
+      "type": "conference-paper",
+      "doi": "10.1109/ICACCS.2017.8014564",
+      "url": "https://doi.org/10.1109/ICACCS.2017.8014564",
+      "orcid_put_code": 39593568
+    }
+  ]
+}
